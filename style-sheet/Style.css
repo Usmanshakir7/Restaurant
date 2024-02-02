@@ -1,0 +1,189 @@
+<style>
+
+
+ @font-face {
+    font-family:usman;
+    src: url(Koulen-Regular.ttf);
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    margin: 2px;
+    padding: 65px;
+    text-transform: uppercase;
+    line-height: 50px;
+    color: #e1c800;
+    background-color:#ca171e ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+    border-radius: 60px 60px 4px 4px;
+    
+
+}
+h2:hover{
+    font-size:52px;
+    
+
+}
+img{
+    width: 1340px;
+    height: 601px;
+}
+.menu {
+    background-color: #ca171e;
+    width: 262px;
+    font-size: x-large;
+    height: 67px;
+    text-align: center;
+    border-radius: 13px;
+}
+
+
+
+h1 {
+    color: #fff;
+    background-color: #e1c800;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border-width: 11px 5px 11px 5px;
+    border-style: solid;
+    border-color: #ca171e #ca171e #ca171e #ca171e ;
+    border-radius: 0px 90px 0px 90px;
+    
+}
+
+.items {
+    background-color: #ca171e;
+    color: white;
+    width: 300px;
+    font-size: x-large;
+    height: 67px;
+    text-align: center;
+    border-radius: 13px;
+    
+}
+.items:hover{
+   
+}
+
+.itemstable {
+    padding-left: 215px;
+padding-bottom: 15px;
+
+
+}
+
+ #bgcontact{
+    background-image: url(img/taylor-kiser-POFG828-GQc-unsplash.jpg);
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    border-radius:  60px 90px 0px 90px;
+}
+
+li {
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 13px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    font-size:xx-large;
+    color: #ca171e;
+    
+    
+}
+td:hover{
+    
+    background-color: #e1c800;
+border-radius: 50px;
+}
+textarea{
+    border: none;
+    border-bottom: 2px solid #e1c800;
+    outline: transparent;
+   height:80px;px;
+    width: 235px;
+    background: transparent;}
+input{
+    border: none;
+    border-bottom: 2px solid #332f2f;
+    outline:transparent;
+    caret-color: #e1c800;
+    width: 235px;
+    background: transparent;
+    color: #000000;
+    font-weight: 600;
+    
+}
+ p{
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+ }   
+           
+        
+ label{
+    color: rgb(5, 5, 5);
+    
+    text-transform: capitalize;
+    
+   
+   
+}
+label,input:hover{
+   border-color:  #e1c800;
+   
+    
+}
+textarea:hover{
+    border-color: #332f2f;
+   
+}
+p:hover{
+color: #e1c800;
+}
+button{
+background-color:  #e1c800;
+border-radius: 5px;
+border: none;
+height: 25px;
+width: 90px;
+font-weight: 600;
+
+}
+button.btn{
+color: rgb(5, 5, 5);
+width: 70px;
+margin-left:39px;
+background-color:#dd2828 ;
+font-weight: 600;
+
+}
+button:hover{
+background-color: #4e84e0;
+box-shadow: 0px 0px 11px #4e84e0;}
+
+button.btn:hover{
+
+background-color: #4e84e0;
+box-shadow: 0px 0px 11px #4e84e0;
+}
+.form{
+    border: 2px solid#dd2828;
+    background-color: #fffffb52;
+    box-shadow: 0px 0px 21px #dd2828;
+   padding: 12px 0px 16px 26px;
+
+    width: 20%;
+    margin: 60px 544px;
+}
+
+</style>
